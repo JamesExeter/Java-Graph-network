@@ -1,0 +1,9 @@
+James,23,12,1998,Swansea,Wales,British,Guitar;Reading;Running
+Kate,3,6,1989,Plymouth,England,British,Painting;Clying
+Bob,17,3,2000,Paris,France,French,Coding;Drumming;Swimming
+Celina,1,8,1996,New York,North America,American,Shooting guns;Singing
+Martin,26,4,2005,Austin,Texas,Canadian,Youtube;4chan;Revolutions
+Tom,24,11,1998,Stibb Cross,UK,Britsh,Dancing;Travelling;Cats
+Alex,4,1,2012,Istanbul,Turkey,Turkish,Walking;History;Potter
+Johan,31,10,1996,London,England,British,Yodelling;Climbing
+Zac,1,4,2003,New York,USA,Irish,Baking;Skydiving;Diving
